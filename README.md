@@ -5,6 +5,7 @@ Program upload gambar untuk memenuhi tugas PWEB
 - Download project
 - Taruh di htdoc
 - import uploadface.sql ke database dengan nama database "uploadface"
+- buka condb.php dan sesuaikan dengan pengaturan server masing masing
 
 <b>RUN</b>
 - buka dan jalankan pada postman https://www.getpostman.com/collections/2b155364fca0aa0b1ff9
