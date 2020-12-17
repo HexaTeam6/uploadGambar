@@ -43,7 +43,7 @@ ORDER BY created_at ASC");
 <center><table border="1">
     <thead>
     <tr>
-        <th width="50%">Username</th>
+        <th>Username</th>
         <th>Keterangan</th>
         <th>Waktu</th>
     </tr>
